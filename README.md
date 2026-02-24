@@ -1,1 +1,0 @@
-# AMA_technical_paper
