@@ -87,13 +87,13 @@ SQL (Structured Query Language) is used to manage relational databases.
 
 ### Categories:
 
-- DDL → `CREATE`, `ALTER`, `DROP`
+- DDL -> `CREATE`, `ALTER`, `DROP`
 
-- DML → `INSERT`, `UPDATE`, `DELETE`
+- DML -> `INSERT`, `UPDATE`, `DELETE`
 
-- DQL → `SELECT`
+- DQL -> `SELECT`
 
-- DCL → `GRANT`, `REVOKE`
+- DCL -> `GRANT`, `REVOKE`
 
 ## 8. ALTER in SQL
 
