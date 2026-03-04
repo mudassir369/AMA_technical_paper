@@ -296,6 +296,7 @@ Benefits:
 
 - Start on new line
 
+
 #### Examples:
 `<div>`, `<p>`, `<h1>`
 
